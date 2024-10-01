@@ -1,0 +1,11 @@
+Aula 25 
+
+Prototipagem 
+
+criação de algo que desejamos produzir. 
+ 
+Existem 3 tipos de protótipo 
+
+Baixa fidelidade : utilizado no ínicio de um projeto , devem ser ráidos , rudimentares( algo mais simples )  e baratos 
+Média fidelidade : um pouco mais refinado, com um leault melhor ( este é com as ideias mais estruturadas) 
+Alta fidelidade : Deve se aproximar mais dos aspectos visuais,para atrair o cliente e mostrar como será ( basicamente ) o resultado final 
